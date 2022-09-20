@@ -184,7 +184,7 @@ const ftroli = {
                             itemCount : 9999999999999,
                             status: 1,
                             surface : 1,
-                            message: '© TioXd Official',
+                            message: '© SxyoBotz',
                             orderTitle: 'MENU',
                             thumbnail: await (await fetch('https://telegra.ph/file/3911d7aaaa8733314f70f.png')).buffer(),
                             sellerJid: '0@s.whatsapp.net'
@@ -197,7 +197,7 @@ await conn.send2ButtonImg(m.chat, await (await fetch('https://telegra.ph/fil
       contextInfo: { //forwardingScore: 99999, isForwarded: true,  
           externalAdReply: {  showAdAttribution: true, 
               title: 'Bot Wahatsapp Multi Device',  
-              body: '© TioXd', 
+              body: '© Aji OFFC', 
               description: 'Made With ❤️ TioXd', 
               mediaType: 2,  
             thumbnail: await (await fetch('https://telegra.ph/file/00faf159ce0349901eaf3.jpg')).buffer(), 
