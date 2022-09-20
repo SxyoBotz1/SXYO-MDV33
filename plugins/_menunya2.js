@@ -9,19 +9,19 @@
     let time = require('moment-timezone').tz('Asia/Jakarta').format('HH:mm:ss')
     let ar = ['list', 'menu']
     let yo = `Hai @${m.sender.split('@')[0]} 👋`
-    let tio = `*© RTXZY-TEAM*`
+    let tio = `*© SXYOBOTZ-MD*`
     let liv = `CLICK HERE`
     const sections = [ {
       	title: `Aktif ${uptime} || Jam ${time} WIB`,
         rows: [
-	{title: `All Menu`, rowId: `.a `},//, description: ``},
-        {title: `All Menu V2`, rowId: `.pay `},//, description: ``},
-        {title: `Owner`, rowId: `#owner `},//, description: ``},
-        {title: `Donasi`, rowId: `#donasi `},//, description: ``},
-        {title: `Script`, rowId: `#sc `},//, description: ``},
-        {title: `Group Official`, rowId: `#gcbot `},//, description: ``},
-        {title: `Speed`, rowId: `#speed `},//, description: ``},
-        {title: `List Texpro Maker`, rowId: `#textpro `},//, description: ``},
+	{title: `|📑|𝐀𝐋𝐋 𝐌𝐄𝐍𝐔`, rowId: `.a `},//, description: ``},
+        {title: `|💸|𝐌𝐄𝐍𝐔 𝐏𝐀𝐘`, rowId: `.pay `},//, description: ``},
+        {title: `|👑|𝐎𝐖𝐍𝐄𝐑`, rowId: `#owner `},//, description: ``},
+        {title: `|💵|𝐃𝐎𝐍𝐀𝐒𝐈`, rowId: `#donasi `},//, description: ``},
+        {title: `|🤖|𝐒𝐎𝐔𝐑𝐂𝐄 𝐂𝐎𝐃𝐄`, rowId: `#sc `},//, description: ``},
+        {title: `|👥|𝐆𝐑𝐔𝐁 𝐎𝐖𝐍𝐄𝐑`, rowId: `#gcbot `},//, description: ``},
+        {title: `|🌀|𝐒𝐏𝐄𝐄𝐃 𝐁𝐎𝐓`, rowId: `#speed `},//, description: ``},
+        {title: `|🔅|𝐓𝐄𝐗𝐏𝐑𝐎`, rowId: `#textpro `},//, description: ``},
         ]
  } ]
 
